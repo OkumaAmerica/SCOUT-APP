@@ -1,4 +1,4 @@
- ![SCOUT Icon](https://www.myokuma.com/stuff/contentmgr/files/0/9120ca08ca3f684d70e543e94ad53830/logo/_resized/30_140_140_okuma_scout_appicon_140x140.png)﻿The SCOUT Project
+ ![SCOUT Icon](https://www.myokuma.com/stuff/contentmgr/files/0/9120ca08ca3f684d70e543e94ad53830/logo/_resized/30_140_140_okuma_scout_appicon_140x140.png)﻿The SCOUT Application
 
 # SCOUT CHANGE LOG README #
 
